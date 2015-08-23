@@ -1,0 +1,12 @@
+# Site settings
+title: binaryblade 
+description: > # this means to ignore newlines until "baseurl:"
+  We're a small team of expert designers and developers. We write code for iOS,
+  Android, and the web.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://binaryblade.com" # the base hostname & protocol for your site
+twitter_username: binarybladellc 
+github_username:  binarybladellc 
+
+# Build settings
+markdown: kramdown
